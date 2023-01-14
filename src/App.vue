@@ -1,6 +1,6 @@
 <template>
   <Modal
-    @closeModal="modal = 0;"
+    @closeModal="modal = 0"
     :onerooms="onerooms"
     :id="id"
     :modal="modal"
